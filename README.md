@@ -1,5 +1,5 @@
 # Computer_organization
-This repository contains assembly code of some programs using nasm assembler. <br/>
+This repository contains assembly code of some programs using nasm assembler and cache-simulator<br/>
 Command to run the code:<br/>
 ```console
 nasm -f elf32 -g  -F stabs program.asm  -l program.ls
