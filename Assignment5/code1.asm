@@ -1,5 +1,5 @@
 
-; Objectives: To enocde a given string
+; Objectives: To enocde a given string in nasm language
 ; Inputs: String
 ; Outputs: Encoded string
 
